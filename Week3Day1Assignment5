@@ -1,0 +1,14 @@
+Grand father class
+Grand Mother class
+Father class
+Child1 class
+Child2 class
+1.Single level inheritance - 
+	(i)Relation between Grandfather and Father
+	(ii)Relation between Father and child
+2.Multilevel inheritance
+	(i)Relation between Grandfather to Father and Father to Child
+3.Hierarchial Inheritance
+	(i)Relation between Father to child 1 and father to child2
+4.Multiple inheritance
+	(i)Relationship between grandfather and grandmother to father class which is not allowed in java
